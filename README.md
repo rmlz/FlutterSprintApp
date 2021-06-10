@@ -1,4 +1,4 @@
-# social
+# FlutterSprintApp
 
 A new Flutter project.
 
